@@ -6,6 +6,8 @@ tags: ["brasil", "amor"]
 confidence: "media"
 ---
 
+# Bloco I - A solução dos três corpos
+
 ## Capítulo I — O encontro
 
 Conheci Alexandre no dia 3 de julho de 2025, em Belo Horizonte, numa manhã comum que deixou de ser comum no instante em que nossos olhares se cruzaram. Eu descia a rua Carangola com meu cachorro; ele subia. Olhamos para trás quase ao mesmo tempo. Houve silêncio, aproximação, conversa. Trocamos contato e, poucas horas depois, nos reencontramos.
@@ -34,9 +36,11 @@ Na carta, falava da possibilidade de construirmos algo juntos. Não entro nos de
 
 ---
 
+# Bloco II - Morte e renascimento
+
 ## Capítulo IV — A ruptura
 
-De volta ao Canadá, conversávamos todos os dias. Até que minha esposa ouviu um áudio dele no meu celular. O conteúdo não tinha nada demais, mas foi suficiente.
+Quando fomos para Porto Seguro, conversávamos todos os dias. Até que minha esposa ouviu um áudio dele no meu celular. O conteúdo não tinha nada demais, mas foi suficiente.
 
 Percebi que não poderia sustentar duas vidas. Liguei para Alexandre e contei a verdade sobre meu casamento. Disse que não deveríamos continuar a conversar daquela maneira. Disse-lhe que um homem de mentira não pode chegar à verdade.
 
@@ -53,6 +57,8 @@ Longe de casa, sem apoio real, no limite físico e emocional, Alexandre voltou �
 Aquela resposta me deu forças para atravessar o que parecia intransponível. Com ajuda do meu chefe, consegui transformar a missão num sucesso parcial. Voltei diferente. Algo em mim tinha sido iniciado.
 
 ---
+
+# Bloco III - L'Oiseau Rebelle
 
 ## Capítulo VI — As tempestades de outono
 
