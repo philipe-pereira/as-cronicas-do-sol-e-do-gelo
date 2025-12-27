@@ -7,24 +7,25 @@
 
 ---
 
-## 1. Gênese e preparação (15 de novembro de 2026)
+## 1. Gênese e preparação (15 de novembro de 2025)
 
-No dia **15 de novembro de 2026**, a ideia da viagem surgiu. Não houve plano imediato, nem excitação. Houve reconhecimento. Algo que vinha se formando precisava ser confrontado com a realidade. Permanecer apenas no plano virtual já não era suficiente.
+A origem da Operação Beleza Brasileira remonta ao **dia 15 de novembro de 2025**, durante uma confraternização familiar de final de ano da **OPAL-RT**. Tratava-se de um evento informal, aberto a funcionários e famílias. Fui com meus filhos, Maria e Pedro, que encontraram o Papai Noel, receberam presentes e circularam livremente pelo espaço. Externamente, era apenas uma festa de empresa.
 
-Desde o início, ficou claro que a viagem não poderia ser impulsiva. Ela precisaria ser **contida**, **discreta** e **funcional**. Foi nesse contexto que o nome *Operação Beleza Brasileira* se impôs. “Beleza”, ali, não significava estética, mas correção do gesto: fazer o necessário sem excesso, sem mentira e sem espetáculo.
+Internamente, porém, a ideia já existia. Eu vinha amadurecendo a decisão de que, **na próxima viagem corporativa**, tentaria “escapar” para o Brasil. Numa conversa com **Fabiano Guedes**, do time de vendas, ele propôs uma viagem profissional conjunta para a Carolina do Norte.
 
-Nas semanas seguintes, defini o caráter **clandestino** da viagem. Não por medo, mas por método. Quanto menos pessoas soubessem, menor seria o ruído e maior a integridade do gesto.
+Essa viagem apresentava condições singulares. Para Fabiano, duraria **cinco dias**; para mim, apenas **dois**, por decisão direta do meu chefe, **Sébastien Cense**, que me liberou somente para esse período. Os **três dias restantes** seriam compensados com horas acumuladas no banco de horas, remanescentes da minha viagem anterior à China. A partir daí, a engenharia da travessia tornou-se viável.
 
-Um dos primeiros obstáculos práticos foi a questão do **visto / eTA**. Houve espera, incerteza e, finalmente, a aprovação. Esse momento funcionou como primeiro teste de paciência e disciplina: nada avançaria antes da autorização formal.
+Outros fatores reforçavam o plano: voos para o Brasil partindo dos Estados Unidos eram mais baratos; eu viajaria acompanhado de alguém em quem minha esposa confiava; e, ao mesmo tempo, essa proximidade trazia um risco colateral evidente — a possibilidade de conversas cruzadas entre esposas, caso o plano não fosse executado com rigor absoluto.
 
-Paralelamente, construí a logística. Os voos seriam complexos, com múltiplas escalas e janelas de tempo apertadas. Nada foi escolhido por conforto. Tudo foi escolhido por controle.
+Desde a concepção, a viagem foi **clandestina**. Não por medo, mas por método. A verdade completa não poderia ser conhecida por ninguém além de mim e de Alexandre. **José Oswaldo de Oliveira Neto** foi incluído posteriormente como exceção funcional: em caso de um evento grave — inclusive morte súbita — ele seria o responsável por revelar a verdade. Para isso, recebeu acesso aos registros desta conversa. Entre nós existiam **protocolos post-mortem** claros, estabelecidos muito antes dessa viagem.
 
-A preparação física foi mínima e regular. Não houve aumento de carga ou heroísmo. O objetivo era chegar inteiro. A preparação espiritual foi silenciosa: missas semanais, orações curtas e repetidas, especialmente nos momentos de aperto no peito ou aceleração mental. Um terço foi colocado na mala, não como amuleto, mas como instrumento de recolocação interior.
+Para todos os demais, realidades parciais seriam mantidas: colegas da OPAL-RT acreditariam que eu estava tirando **três dias de férias** após a viagem profissional; minha esposa acreditaria que eu permanecia na **Carolina do Norte**; a realidade efetiva seria uma terceira, cuidadosamente contida. A clandestinidade, portanto, **não foi um desdobramento posterior — foi condição estrutural da operação**.
 
-Desde cedo, três princípios orientaram toda a operação:
-- **Discrição absoluta**;
-- **Autossuficiência emocional**;
-- **Integração com a vida real**.
+A questão migratória surgiu cedo e **não bloqueou o avanço do plano**. Embora o **TRV estivesse vencido**, o **Work Permit permanecia válido**, e a elegibilidade ao **eTA** existia em função do visto americano. A estratégia foi definida conscientemente: **viajar mesmo assim**, assumir o risco real e **resolver a autorização fora do Canadá**, conforme orientação técnica registrada à parte. Nada foi suspenso à espera de autorização prévia; o risco foi calculado, aceito e incorporado ao desenho da operação.
+
+Foi nesse contexto — método, risco assumido e contenção — que o nome **Operação Beleza Brasileira** se impôs. O termo não surgiu de uma preocupação estética nem de marketing interno da operação. Ele fazia referência direta a uma elaboração anterior, já registrada no *Diário de um amor*, onde a expressão “Beleza Brasileira” havia sido usada como chave simbólica.
+
+Aqui, o nome foi retomado com a mesma carga: “beleza” não como ornamento, mas como aquilo que permanece íntegro mesmo sob tensão; “brasileira” como marca de origem, nostalgia e ferida, mas também como ponto de retorno concreto. O nome funcionou, desde o início, como um lembrete silencioso do que estava em jogo e do nível de responsabilidade exigido pelo gesto.
 
 ---
 
