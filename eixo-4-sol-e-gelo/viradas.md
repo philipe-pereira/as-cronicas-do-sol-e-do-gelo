@@ -1,7 +1,5 @@
 # Viradas
 
----
-
 ## Rupturas
 
 ### Ruptura 1 — A pergunta na ponte (vida que funciona deixa de bastar)

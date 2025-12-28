@@ -1,5 +1,4 @@
-# Eixo 7 — Estabilidade emocional  
-## Liberdade
+# Eixo 7 - Estabilidade emocional
 
 Este eixo não nasce de serenidade.  
 Ele nasce da retirada abrupta de anestesias e da decisão de permanecer consciente enquanto o corpo e a mente pedem fuga.

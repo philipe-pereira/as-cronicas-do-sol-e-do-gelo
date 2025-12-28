@@ -1,6 +1,4 @@
-# Sintese
-
----
+# Síntese
 
 ## Linhas de força
 

@@ -1,4 +1,4 @@
-# Eixo 4 - migração / vida no Québec - _O Sol e o gelo_
+# Eixo 4 - Migração / vida no Québec - _O Sol e o gelo_
 
 ## O sol e o gelo
 ### Extrato canônico integral
