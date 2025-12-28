@@ -1,10 +1,6 @@
-# 4 — Migração / Vida no Québec
-## O sol e o gelo
-### símbolos.md
+# Símbolos
 
----
-
-## símbolos / objetos
+## Objetos
 
 ### 1. Edifício Júlio Soares (Cemig)
 
@@ -59,7 +55,7 @@ Não substitui missão; confirma lugar.
 
 ---
 
-## símbolos / lugares
+## Lugares
 
 ### 1. Ponte Samuel-de-Champlain
 
@@ -129,7 +125,7 @@ Lugar da gratuidade concreta:
 
 ---
 
-## símbolos / alquimia
+## Alquimia
 
 ### Nigredo — a suspensão
 

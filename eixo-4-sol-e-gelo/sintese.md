@@ -1,10 +1,8 @@
-# 4 — Migração / Vida no Québec
-## O sol e o gelo
-### sintese.md
+# Sintese
 
 ---
 
-## síntese / linhas-de-força
+## Linhas de força
 
 1. A migração não produziu fracasso funcional, mas suspendeu uma vocação coletiva não reinscrita.  
 2. O Québec oferece realização objetiva e gratuidade concreta; o Brasil concentra memória de missão e pertencimento histórico.  
@@ -14,7 +12,7 @@
 
 ---
 
-## síntese / frases-âncora
+## Frases-âncora
 
 > “Por que raios eu estou indo para o Brasil?”
 
@@ -29,7 +27,7 @@
 
 ---
 
-## síntese / limites-e-verdades
+# Limites e verdades
 
 - A migração resolveu condições de vida, não resolveu sentido histórico.  
 - Gratidão objetiva não obriga pertencimento simbólico.  

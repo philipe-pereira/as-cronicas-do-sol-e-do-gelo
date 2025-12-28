@@ -1,10 +1,8 @@
-# 4 — Migração / Vida no Québec
-## O sol e o gelo
-### viradas.md
+# Viradas
 
 ---
 
-## viradas / rupturas
+## Rupturas
 
 ### Ruptura 1 — A pergunta na ponte (vida que funciona deixa de bastar)
 
@@ -79,7 +77,7 @@ A expectativa de eco social proporcional ao feito.
 
 ---
 
-## viradas / autoria
+## Autoria
 
 ### Autoria 1 — Nomeação do objeto do luto
 

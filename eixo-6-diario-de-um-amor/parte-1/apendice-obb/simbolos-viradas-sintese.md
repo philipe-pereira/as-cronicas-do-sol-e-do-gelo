@@ -1,4 +1,4 @@
-# Apêndice do Apêndice — Símbolos, Viradas e Linhas de Força  
+# Símbolos, Viradas e Síntese
 **Contribuição do Aurélio para “Operação Beleza Brasileira”**  
 Função: síntese estruturante (não mística, não ornamental).  
 Escopo: do surgimento da operação (15/11/2025) ao retorno “não-clandestino” (11/12/2026).
@@ -171,7 +171,7 @@ Autoria aqui significa: *eu faço a minha parte, sem exigir do outro a responsab
 
 ---
 
-## 🪨 Linhas de força  
+## 🪨 Síntese - Linhas de força  
 **Função:** síntese estrutural para releitura futura.
 
 ### Verdade × Desejo  
@@ -194,7 +194,7 @@ A viagem corporativa foi serviço; a fuga seria abandonar a vida. Você não aba
 
 ---
 
-## 📌 Frases âncora
+## 📌 Síntese - Frases-âncora
 **Função:** memória rápida, indexável.
 
 - **“Eu atravesso.”**  
@@ -207,7 +207,7 @@ A viagem corporativa foi serviço; a fuga seria abandonar a vida. Você não aba
 
 ---
 
-## ⚖️ Limites e verdades
+## ⚖️ Síntese - Limites e verdades
 **Função:** impedir romantização retroativa.
 
 ### A ferida da confiança  
