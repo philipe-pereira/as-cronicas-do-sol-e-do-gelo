@@ -81,3 +81,10 @@ marcenaria/
    ├─ svg-ascensao.md       # protocolo oficial de desenhos técnicos
    └─ medicao.md            # princípios de medição e tolerância
 ```
+
+---
+
+## Encerramento
+
+A marcenaria, dentro do PROJETO_ASCENSAO, não é um desvio.
+É uma **coluna silenciosa** que sustenta corpo, identidade e futuro.

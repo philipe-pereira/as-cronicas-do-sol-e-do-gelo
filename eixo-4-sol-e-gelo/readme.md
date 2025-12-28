@@ -21,7 +21,7 @@ Os dois parágrafos fundadores são:
 
 ## Cena 1 — Ponte Samuel-de-Champlain (Montréal)
 
-**Data:** 14 de junho  
+**Data e hora:** 14 de junho de 2025, por volta das 18h
 **Contexto:** véspera da viagem ao Brasil  
 **Local:** Ponte Samuel-de-Champlain, Montréal, Québec, Canadá  
 **Condições:** verão, cidade funcional, bela, organizada
@@ -37,7 +37,7 @@ O questionamento surge quando nada está objetivamente errado, diante de uma vid
 
 ## Cena 2 — Avenida Barbacena / Cemig (Belo Horizonte)
 
-**Horário:** por volta das 18h  
+**Data e hora:** 11 de dezembro de 2025, por volta das 18h  
 **Local:** Avenida Barbacena, em frente ao edifício Júlio Soares (sede da Cemig), Belo Horizonte, MG  
 **Contexto:** deslocamento para buscar a mãe de Alexandre, no Diamond Mall
 
@@ -120,6 +120,7 @@ A expressão remete a uma piada mencionada, mas não reproduzida integralmente n
 
 ## Cena 7 — Vida no Québec: filha e cultura
 
+**Data:** 16 de dezembro de 2025
 **Local:** Montréal, Place des Arts  
 **Contexto:** buscar a filha na escola; atividade cultural
 

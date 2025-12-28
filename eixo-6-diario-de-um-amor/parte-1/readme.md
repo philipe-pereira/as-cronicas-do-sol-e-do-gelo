@@ -115,12 +115,12 @@ Para o aniversário dele em 11 de novembro, eu preparei um calendário com 12 fo
 
 No dia 16 de novembro, eu reescrevi o Plano AA, chamando-o de “Plano A”. Eu entendi que eu não podia ter como meta “casar com Alexandre”, porque isso envolve a liberdade de outro homem. Eu substituí isso por algo mais verdadeiro e mais duro: **aprender a viver sozinho.** O objetivo deixou de ser “ficar com alguém” e passou a ser “sair da mentira”. Eu me divorciaria e moraria sozinho. O que aconteceria depois, o destino diria. Esse foi o momento em que o centro de gravidade da história mudou: Alexandre deixou de ser meu “fim” e passou a ser um vínculo dentro de um caminho maior de verdade.
 
-No dia seguinte, 17 de novembro, numa confraternização de final de ano da empresa, surgiu o convite de uma viagem de trabalho aos EUA. E ali eu vi uma oportunidade.
+No dia seguinte, 15 de novembro, numa confraternização de final de ano da empresa, surgiu o convite de uma viagem de trabalho aos EUA. E ali eu vi uma oportunidade.
 
 ---
 
 ## Capítulo VII — Beleza brasileira  
-**Carolina do Norte (EUA), 8–9 de dezembro de 2025 / Belo Horizonte (MG), 10–11 de dezembro de 2025 / Confins (MG), 11 de dezembro de 2025**
+**Carolina do Norte (EUA), 8–9 de dezembro de 2025 / Belo Horizonte (MG), 10–11 de dezembro de 2025**
 
 A viagem não era apenas aos EUA. Era ao Brasil.
 
