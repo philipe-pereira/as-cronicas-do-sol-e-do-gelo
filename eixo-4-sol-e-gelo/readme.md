@@ -207,6 +207,8 @@ A afirmação “Montréal não é ingrata” estabelece um limite claro no eixo
 **Local:** Montréal, OPAL-RT Technologies  
 **Contexto:** People’s Choice Awards — MVP 2025
 
+![People’s Choice Awards — OPAL-RT Technologies — MVP 2025](mvp.jpeg)
+
 O autor foi indicado, por voto popular, como um dos jogadores mais valiosos da área de P&D da OPAL-RT Technologies. Ao final do processo, não venceu o prêmio, tendo ficado entre os quatro finalistas.
 
 O grupo de finalistas era composto por dois subordinados, entre eles o autor, e dois diretores, sendo um deles o chefe do autor, Sébastien Cense, diretor da divisão de simulação FPGA.
