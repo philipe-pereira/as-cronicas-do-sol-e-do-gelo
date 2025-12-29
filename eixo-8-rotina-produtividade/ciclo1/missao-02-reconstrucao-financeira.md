@@ -1,4 +1,4 @@
-# Missão 02 — Reconstrução Financeira
+# Missão 02 - Reconstrução Financeira
 
 **Prioridade na Estrela Polar:** 2/5  
 **Eixos envolvidos:** 1 (profissional hoje) + 5 (profissional amanhã) + 8 (rotina)  

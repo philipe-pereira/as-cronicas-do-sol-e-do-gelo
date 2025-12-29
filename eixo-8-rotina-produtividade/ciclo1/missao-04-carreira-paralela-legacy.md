@@ -1,4 +1,4 @@
-# Missão 04 — Carreira Paralela (Legacy Code)
+# Missão 04 - Carreira Paralela (Legacy Code)
 
 **Prioridade na Estrela Polar:** 4/5  
 **Eixos envolvidos:** 1 (profissional hoje) + 5 (profissional amanhã)  

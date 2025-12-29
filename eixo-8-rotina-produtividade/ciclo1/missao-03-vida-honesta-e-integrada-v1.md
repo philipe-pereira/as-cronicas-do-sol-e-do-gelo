@@ -1,6 +1,5 @@
-# Missão 03 — Vida Honesta e Integrada (V1)
+# Missão 03 - Vida Honesta e Integrada (V1)
 
-**Horizonte:** 8 semanas (14/12/2025 00:00 → 07/02/2026 23:59)  
 **Prioridade na Estrela Polar:** 3/5  
 **Eixos envolvidos:** 3 (família) + 6 (Alexandre) + 9 (Deus)  
 **Função sistêmica:** reduzir duplicidade e dissonância interna sem precipitação destrutiva.

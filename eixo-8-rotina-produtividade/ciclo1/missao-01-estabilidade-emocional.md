@@ -107,8 +107,8 @@ Ferramentas (escolher 1–2):
 
 A cada domingo, registrar:
 - % dias com rotina mínima
-- # exceções reais (e se eram reais)
-- # dias com descarga emocional
+- \# exceções reais (e se eram reais)
+- \# dias com descarga emocional
 - nota subjetiva (0–10) de “estado de base”
 
 ---

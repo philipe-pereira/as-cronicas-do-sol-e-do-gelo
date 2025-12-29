@@ -1,4 +1,4 @@
-# Missão 05 — Rotina Sustentável
+# Missão 05 - Rotina Sustentável
 
 **Prioridade na Estrela Polar:** 5/5  
 **Eixos envolvidos:** 2 (corpo) + 7 (emocional) + 8 (rotina)  
