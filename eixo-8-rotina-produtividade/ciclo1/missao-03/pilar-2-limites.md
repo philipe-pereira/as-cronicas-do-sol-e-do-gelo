@@ -1,4 +1,4 @@
-# Missão 3 — Pilar 2  
+# Missão 3 - Pilar 2  
 ## Limites morais e emocionais explícitos
 
 Este pilar define fronteiras que preservam minha integridade

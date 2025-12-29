@@ -1,4 +1,4 @@
-# Missão 3 — Pilar 5  
+# Missão 3 - Pilar 5  
 ## Preparação silenciosa da transição
 
 Este pilar prepara condições reais de futuro

@@ -1,4 +1,4 @@
-# Missão 3 — Pilar 4  
+# Missão 3 - Pilar 4  
 ## Fé como sustentação, não como cobrança
 
 Este pilar reposiciona a fé fora da lógica

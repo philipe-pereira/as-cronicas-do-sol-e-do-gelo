@@ -1,4 +1,4 @@
-# Missão 3 — Pilar 3  
+# Missão 3 - Pilar 3  
 ## Pressupostos operacionais não verificados
 
 Este pilar torna visível aquilo que guia minhas ações
