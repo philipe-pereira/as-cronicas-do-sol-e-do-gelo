@@ -1,23 +1,27 @@
 # Ciclo octahebdomal 1
 
-Semanas 12 a 19
+## Datas e tema
 
-**Horizonte:** 8 semanas (14/12/2025 00:00 → 07/02/2026 23:59)  
+**Semanas 12 a 19**
+
+- **Início:** 14/12/2025 00:00  
+- **Fim:** 07/02/2026 23:59  
+- **Tema central:** sair definitivamente do modo crise e consolidar uma vida previsível, integrada e sustentável  
 
 ## Estrela Polar - Lista inicial de 11 pontos e análise item por item
 
 Apresentação dos 11 possibilidades de objetivos mais importantes do momento, como exemplos de “Estrela Polar” e as respostas:
 
-- garantir o bem-estar dos meus filhos: já temos feito muito por eles, e continuaremos a fazer, o que quer dizer que isso não é algo que está em risco imediato (mas quando a separação se aproximar, teremos de voltar nesse ponto). Logo, não, não é prioridade agora.
-- manter dignidade no processo de separação: mesma coisa, deixemos para quando isso for iminente.
-- construir relação sólida Alexandre: impossível, não com a distância e não comigo casado. Sem falar que depende dele também, não somente de mim... Por ora, isso não é importante (vou investir na relação na medida do possível, você pode me ajudar nisso, mas não é prioridade)
-- estabilidade emocional: sim, isso é prioridade
+- garantir o bem-estar dos meus filhos: já temos feito muito por eles, e continuaremos a fazer, o que quer dizer que isso não é algo que está em risco imediato (mas quando a separação se aproximar, teremos de voltar nesse ponto). Logo, não, não é prioridade agora;
+- manter dignidade no processo de separação: mesma coisa, deixemos para quando isso for iminente;
+- construir relação sólida Alexandre: impossível, não com a distância e não comigo casado. Sem falar que depende dele também, não somente de mim... Por ora, isso não é importante (vou investir na relação na medida do possível, você pode me ajudar nisso, mas não é prioridade);
+- estabilidade emocional: sim, isso é prioridade;
 - evolução espiritual: é prioridade sempre, o que quer dizer que pode esperar um pouco...
 - reconstruir finanças: prioridade total!
-- fortaceler corpo e saúde: só preciso parar de fumar, coisa que você já está me ajudando e creio já estar meio caminho andado. Não é prioridade pois, meus sonhos fitness (ginasta amador) seria mais um troféu que uma urgência (isso daqui pode vir a ser uma prioridade se for para ajudar no controle emocional)
-- criar uma vida honesta e integrada: isso é prioridade
-- preparar uma carreira paralela: isso é prioridade
-- rotina sustentável: isso é prioridade
+- fortaceler corpo e saúde: só preciso parar de fumar, coisa que você já está me ajudando e creio já estar meio caminho andado. Não é prioridade pois, meus sonhos fitness (ginasta amador) seria mais um troféu que uma urgência (isso daqui pode vir a ser uma prioridade se for para ajudar no controle emocional);
+- criar uma vida honesta e integrada: isso é prioridade;
+- preparar uma carreira paralela: isso é prioridade;
+- rotina sustentável: isso é prioridade;
 - futuro geográfico: no curto prazo, Montréal é minha casa. Não hei de fazer mudanças bruscas por agora. Logo, não é prioridade.
 
 Assim sendo, minha Estrela Polar:

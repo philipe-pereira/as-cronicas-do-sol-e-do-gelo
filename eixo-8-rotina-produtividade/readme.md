@@ -1,45 +1,52 @@
-# Eixo 8 - Rotina / produtividade
+# Eixo 8 — Rotina e Produtividade
 
-Este extrato registra o momento decisório da Estrela Polar: a lista inicial de 11 objetivos possíveis, a análise de Philipe item por item, e a consolidação final dos 5 objetivos escolhidos, com a análise subsequente.
-
----
-
-## Lista inicial de 11 pontos e análise item por item
-
-Apresentação dos 11 possibilidades de objetivos mais importantes do momento, como exemplos de “Estrela Polar” e as respostas:
-
-- garantir o bem-estar dos meus filhos: já temos feito muito por eles, e continuaremos a fazer, o que quer dizer que isso não é algo que está em risco imediato (mas quando a separação se aproximar, teremos de voltar nesse ponto). Logo, não, não é prioridade agora.
-- manter dignidade no processo de separação: mesma coisa, deixemos para quando isso for iminente.
-- construir relação sólida Alexandre: impossível, não com a distância e não comigo casado. Sem falar que depende dele também, não somente de mim... Por ora, isso não é importante (vou investir na relação na medida do possível, você pode me ajudar nisso, mas não é prioridade)
-- estabilidade emocional: sim, isso é prioridade
-- evolução espiritual: é prioridade sempre, o que quer dizer que pode esperar um pouco...
-- reconstruir finanças: prioridade total!
-- fortaceler corpo e saúde: só preciso parar de fumar, coisa que você já está me ajudando e creio já estar meio caminho andado. Não é prioridade pois, meus sonhos fitness (ginasta amador) seria mais um troféu que uma urgência (isso daqui pode vir a ser uma prioridade se for para ajudar no controle emocional)
-- criar uma vida honesta e integrada: isso é prioridade
-- preparar uma carreira paralela: isso é prioridade
-- rotina sustentável: isso é prioridade
-- futuro geográfico: no curto prazo, Montréal é minha casa. Não hei de fazer mudanças bruscas por agora. Logo, não é prioridade.
-
-Assim sendo, minha Estrela Polar:
-
-- estabilidade emocional
-- reconstruir finanças
-- criar uma vida honesta e integrada
-- preparar uma carreira paralela
-- rotina sustentável
+Este eixo é o **container operacional** do PROJETO_ASCENSAO: é aqui que vivem os ciclos, missões de médio prazo, rotinas mínimas e os mecanismos de acompanhamento.
 
 ---
 
-## Análise subsequente (resposta do assistente, preservada)
+## Contrato dos Ciclos Octahebdomais (8 semanas)
 
-Eu confirmei a sua Estrela Polar e alinhei ao sistema dos 9 eixos, dizendo que isso se tornaria a espinha dorsal de decisões.
+### 1) O que é um ciclo octahebdomal
+Um **ciclo octahebdomal** é um período de **8 semanas** com:
+- um **tema central**
+- **≈ 5 missões de médio prazo** (maleáveis)
+- execução diária/semanal via Eixo 8
+- **balanço** e **correção de rota** no fechamento
 
-Eu reescrevi sua Estrela Polar como prioridades operacionais e conectadas:
+O ciclo existe para manter **foco, previsibilidade e execução**, evitando:
+- improviso crônico
+- “modo crise”
+- replanejamento infinito
+- dispersão entre eixos
 
-1. Estabilidade emocional (Eixo 7 + Eixo 6 + Eixo 8): sem estabilidade emocional, tudo o resto colapsa; qualquer decisão futura passa pelo filtro “isso aumenta ou reduz minha estabilidade emocional?”.
-2. Reconstruir finanças (Eixo 1 + Eixo 5 + Eixo 8): finanças ruins = ansiedade → instabilidade emocional; finanças fortes = liberdade → vida integrada.
-3. Criar uma vida honesta e integrada (Eixo 6 + Eixo 3 + Eixo 9): deixar de viver duplicidade; alinhar vida interna e externa; preparar terreno para vida afetiva autêntica; uma vida integrada é remédio para ansiedade, vícios e instabilidade.
-4. Preparar uma carreira paralela (Eixo 1 + Eixo 5): teto salarial como modelisador sênior; não querer virar chefe; transformar capital técnico em consultoria e projetos próprios; isso serve como alavanca e independência.
-5. Rotina sustentável (Eixo 8 + Eixo 7 + Eixo 2): rotina como remédio; protege saúde mental; reduz recaídas; evita espirais de ansiedade; sustenta produtividade; impede impulsos e vícios.
+---
 
-Eu finalizei dizendo que essa Estrela Polar é coerente, exequível, profunda e alinhada aos 9 eixos, e que o próximo passo seria traduzi-la em objetivos de longo prazo e missões de médio prazo.
+### 2) Relação com os 9 eixos
+- Os **9 eixos** são as **metas estruturais** (orientam e permanecem).
+- As **missões do ciclo** são o **meio** (ajustáveis, trocáveis, refináveis).
+- Ao final de cada ciclo: ajusta-se **missões e tática**, mantendo alinhamento com os eixos.
+
+---
+
+### 3) Estrutura interna de um ciclo
+Cada ciclo deve conter:
+- `README.md` do ciclo (tema, datas, missão, regras)
+- `missao-01...md` até `missao-05...md` (detalhadas)
+- rotina mínima (dia ruim) + rotina ideal (dia bom)
+- (opcional) checkpoints quinzenais e placar semanal
+
+---
+
+### 4) Cadência de acompanhamento
+- **Acompanhamento leve semanal** (check-in rápido, 10–20 min):
+  - o que funcionou
+  - o que não funcionou
+  - 1 ajuste pequeno
+- **Balanço do ciclo** ao final das 8 semanas:
+  - consolidar resultados
+  - escolher correções de rota
+  - definir tema e missões do próximo ciclo
+
+### 5) Referência histórica
+
+- A **Semana 1** do seu sistema de metas semanais começou em **28 de setembro de 2025**, no seu **primeiro encontro de metas semanais com Alexandre, meu Productivity Buddy**.
