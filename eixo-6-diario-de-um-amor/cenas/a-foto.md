@@ -22,31 +22,37 @@
 
 ### Leitura estrutural integrada — Cena “O pedido da foto”
 
-Esta cena registra um momento de exposição afetiva consciente. O pedido não é material, mas simbólico: uma imagem pessoal, íntima, que representa permanência, memória e proximidade.
+Esta cena registra um momento delicado de exposição afetiva. O pedido não é material; é simbólico. Uma foto específica representa proximidade, permanência e imagem guardada. É um pedido de algo que não pode ser exigido, apenas oferecido.
 
-A reação de Alexandre introduz um limite claro. Não há rejeição direta, mas também não há entrega imediata. O estranhamento e o adiamento funcionam como fronteira saudável.
+A resposta de Alexandre — estranhamento e adiamento — introduz um limite saudável. Não há rejeição explícita, mas também não há entrega imediata. O autor sente decepção, mas não reage com cobrança, drama ou retração punitiva.
 
-O ponto decisivo da cena não é a ausência da foto, mas a forma como o limite é acolhido. O autor não transforma a frustração em cobrança nem em retração emocional.
+O ponto estrutural mais importante não é o “não envio”, mas a reação a ele. O autor reconhece que o pedido foi ousado, aceita o limite e não transforma a frustração em crise. Isso marca uma diferença radical em relação a padrões antigos de vínculo.
 
-Aqui se afirma um princípio central da travessia: nem todo gesto verdadeiro precisa ser correspondido no mesmo tempo.
+Esta cena ensina algo central para o eixo emocional: **nem todo gesto verdadeiro precisa ser correspondido no mesmo tempo**. A maturidade aqui não está em não desejar, mas em sustentar o desejo sem exigir retorno imediato. O vínculo permanece vivo sem se tornar muleta emocional.
 
 ---
 
 ### Apêndice — O verdadeiro motivo do pedido
 
-O pedido não era por qualquer foto, mas por uma imagem específica, por três razões.
+O pedido por uma foto específica — e não por qualquer imagem — tinha razões precisas, que não foram explicitadas no momento, mas que se tornaram claras posteriormente.
 
-Primeiro, tratava-se de uma foto já escolhida por Alexandre como papel de parede de seu celular, indicando importância pessoal prévia.
+Primeiro, tratava-se de uma foto que já havia sido escolhida por Alexandre como papel de parede de seu celular, o que indicava importância pessoal e valor simbólico prévio.
 
-Segundo, o sorriso presente na imagem indicava um estado de felicidade autêntica, mais evidente do que em outras fotos conhecidas.
+Segundo, o sorriso presente na imagem indicava um estado de felicidade autêntica, mais evidente do que em outras fotos conhecidas pelo autor. A imagem não representava apenas aparência, mas um momento de plenitude.
 
-Terceiro — e decisivo —, na foto Alexandre segurava a bandeira de uma organização missionária da qual faz parte: **Embaixadores do Rei**, sendo o Rei Nosso Senhor Jesus Cristo.
+Terceiro — e decisivo —, na foto Alexandre segurava a bandeira de uma organização missionária da qual faz parte: **Embaixadores do Rei**, sendo o Rei explicitamente Nosso Senhor Jesus Cristo. O gesto não era performático, mas expressão de uma fé ativa e assumida.
 
-Esse elemento tem dupla leitura. Por um lado, a fé ativa de Alexandre aumenta profundamente a admiração do autor. Por outro, revela uma tentação sutil: buscar no outro um [“sinal verde”](../../eixo-9-destino-espiritual/cenas/20251228.md) espiritual para a própria decisão.
+Esse elemento tem dupla leitura.
 
-Essa leitura é rejeitada. A fé de Alexandre diz respeito прежде de tudo à salvação dele. A responsabilidade pela própria travessia permanece pessoal e intransferível.
+Por um lado, a fé de Alexandre aumenta profundamente a admiração do autor. O reconhecimento de uma vida espiritual viva e engajada toca um eixo central de valor.
 
-O limite encontrado — o adiamento, o tempo, o silêncio — funcionou como correção discreta.
+Por outro lado, esse mesmo elemento revela um risco: o de buscar, no outro, um [“sinal verde”](../../eixo-9-destino-espiritual/cenas/20251228.md) espiritual. Em determinado momento do processo, o autor percebe que passou a procurar validação da própria decisão na fé de Alexandre — como se estar com alguém de fé pudesse legitimar o próprio caminho.
 
-Não houve sinal verde.  
+Essa leitura é rejeitada.
+
+A fé de Alexandre diz respeito, antes de tudo, à salvação dele. A própria santificação do autor não pode ser terceirizada, nem mesmo por meio de um amor verdadeiro. Ainda que duas pessoas possam se ajudar mutuamente no caminho espiritual, a responsabilidade última permanece pessoal e intransferível.
+
+O pedido da foto, assim, continha um desejo legítimo de proximidade, mas também uma tentação sutil de legitimação espiritual externa. O limite encontrado — o adiamento, o estranhamento e o tempo — funcionou como correção silenciosa.
+
+Não houve sinal verde.
 Houve clareza.
