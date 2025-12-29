@@ -1,4 +1,4 @@
-# A cafeteria da UFMG
+# Cena - A cafeteria da UFMG
 
 ## Contexto
 

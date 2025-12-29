@@ -1,10 +1,10 @@
-## Cena - Bronnie Ware
+# Cena - Bronnie Ware
 
 **Data:** 16 de novembro de 2025
 **Local:** Encontro "Metas AA-PH", semana 8; apresentação do "Plano A"
 **Contexto:** contato com reflexão sobre arrependimentos no fim da vida
 
-### Registros literais
+## Registros literais
 
 > “I wish I’d had the courage to live a life true to myself, not the life others expected of me.”
 
@@ -12,7 +12,7 @@
 
 > “Eu não quero ir encontrar com meu Criador com isso pesando contra mim.”
 
-### Leitura estrutural integrada — Cena “Bronnie Ware”
+## Leitura estrutural integrada — Cena “Bronnie Ware”
 
 Esta cena introduz uma ruptura silenciosa, porém profunda, na arquitetura moral do autor. O texto de Bronnie Ware não é recebido como autoajuda nem como convite ao hedonismo, mas reinterpretado à luz de uma ética religiosa exigente.
 

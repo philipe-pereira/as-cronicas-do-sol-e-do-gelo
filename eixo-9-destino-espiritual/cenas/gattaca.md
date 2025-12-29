@@ -1,10 +1,10 @@
-## Cena - Gattaca
+# Cena - Gattaca
 
 **Data:** 17 de dezembro de 2025  
 **Local:** Montréal (casa; ambiente de trabalho silencioso)  
 **Contexto:** lembrança cinematográfica; fragmento simbólico; integração de sentido
 
-### Registros literais
+## Registros literais
 
 > “Eu adoro o filme Gattaca, de 1997.”
 
@@ -18,7 +18,7 @@
 
 > “I never saved anything for the swim back.”
 
-### Leitura estrutural integrada — Cena “Gattaca”
+## Leitura estrutural integrada — Cena “Gattaca”
 
 Esta cena não registra um acontecimento externo, mas um reconhecimento simbólico. O filme *Gattaca* funciona como espelho narrativo para o estado interior do autor: a tensão entre limites objetivos e desejo de transcendência.
 

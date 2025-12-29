@@ -1,10 +1,10 @@
-## Cena - Fabiano e o MVNDO
+# Cena - Fabiano e o MVNDO
 
 **Data:** 8 de dezembro de 2025
 **Local:** Carolina do Norte (viagem de trabalho com colega da OPAL-RT Technologies)  
 **Contexto:** conversa informal entre homens; julgamentos implícitos; confronto com o “falatório humano”; três dias após o baile de gala da OPAL-RT Technologies
 
-### Registros literais
+## Registros literais
 
 > “Alguns pontos que acabamos conversando acabaram me tocando devido ao fato de que eu estou pensando em fazer mudanças radicais na minha vida.”
 
@@ -38,7 +38,7 @@
 
 > “Eu temo mais o julgamento de Deus, mas aqui na terra eu terei de tolerar o julgamento dos homens.”
 
-### Leitura estrutural integrada — Cena “Fabiano / MVNDO”
+## Leitura estrutural integrada — Cena “Fabiano / MVNDO”
 
 Esta cena registra o MVNDO não como inimigo abstrato, mas como presença concreta, cordial e cotidiana. Ele não aparece sob a forma de perseguição ou hostilidade, mas como conversa normal entre homens experientes, em um contexto de confiança e camaradagem.
 

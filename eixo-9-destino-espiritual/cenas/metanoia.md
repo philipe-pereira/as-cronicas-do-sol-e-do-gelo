@@ -1,10 +1,10 @@
-## Cena - Metanoia
+# Cena - Metanoia
 
 **Data:** dezembro de 2025  
 **Local:** Montréal (reflexão escrita; diálogo prolongado)  
 **Contexto:** diálogo de confronto; metáfora do dragão; custo da ação e da omissão; reorganização do sentido da própria vida
 
-### Registros literais
+## Registros literais
 
 > “Omissão também tem consequências.”
 
@@ -34,7 +34,7 @@
 
 > “Eu sei exatamente para onde tenho de ir.”
 
-### Leitura estrutural integrada — Cena “Metanoia”
+## Leitura estrutural integrada — Cena “Metanoia”
 
 Esta cena nasce de um diálogo que transforma uma angústia difusa em narrativa inteligível por meio da metáfora do dragão. O autor não formula sua crise apenas em termos racionais; ele a organiza simbolicamente como uma jornada deliberada.
 

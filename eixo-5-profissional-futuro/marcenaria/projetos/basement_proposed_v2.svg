@@ -1,0 +1,79 @@
+<svg width="9000" height="9000" viewBox="-200 -200 9200 9200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<metadata id="asce-meta" type="application/json">
+{
+	"schema": "SVG-ASCENSAO-v1.1",
+	"units": "mm",
+	"scale": "1:50",
+	"author": "PhilipePereira",
+	"project": "basement-divisorias",
+	"drawing_type": "floorplan",
+	"revision": "r2",
+	"origin": "top-left",
+	"notes": "todas as medidas internas, parede = face acabada"
+}
+</metadata>
+	<style>
+    .wall { fill: #000; fill-opacity: 0.15; stroke: #000; stroke-width: 1; }
+	.opening { stroke: #000; stroke-width: 1; fill: none; }
+	.dim-line, .dim-ext { stroke: #000; stroke-width: 0.5; }
+	.dim-text, .scale { font-size: 60px; }
+	.zone { stroke: #000; stroke-width: 1; fill-opacity: 0.12; fill: blue; }
+	#dividers-proposed { fill: red; }
+  </style>
+	<defs>
+		<!-- A marker to be used as an arrowhead -->
+		<marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+			<path d="M 0 0 L 10 5 L 0 10 z"/>
+		</marker>
+	</defs>
+	<g id="layer-zones" data-layer="zones">
+		<polygon id="zone-salon" class="zone salon" data-type="zone" data-usage="salon" data-permanence="fixed" data-confidence="high" points="0,2145 2923,2145 2923,8721 0,8721"/>
+		<text id="label-zone-salon" class="zone-label" x="1461" y="5433">SALON (fixed)</text>
+		<polygon id="zone-circulation" class="zone circulation" data-type="zone" data-usage="circulation" data-permanence="fixed" data-confidence="high" points="2923,7318 8288,7318 8288,8721 2923,8721"/>
+		<text id="label-zone-circulation" class="zone-label" x="5605" y="8019">CIRCULATION (fixed)</text>
+	</g>
+	<!-- paredes (estrutural) -->
+	<g id="layer-walls">
+		<g id="perimeter" class="wall" data-type="wall" data-thickness-mm="94">
+			<polygon id="wall-seg-01" class="wall-seg" points="0,0 8288,0 8288,8815 8382,8815 8382,-94 -94,-94 -94,8815 2447,8815 2447,8721 0,8721"/>
+			<polygon id="wall-seg-02" class="wall-seg" points="3228,8815 3228,8721 7573,8721 7573,8815"/>
+		</g>
+		<g id="inner-chambers" class="wall" data-type="wall" data-thickness-mm="94">
+			<polygon id="wall-seg-03" class="wall-seg" points="2923,2145 3671,2145 3671,2239 3601,2239 3601,4764 5052,4764 5052,2239 4299,2239 4299,2145 5146,2145 5146,4856 4601,4856 4601,6961 5146,6961 5146,7318 4413,7318 4413,7224 4503,7224 4503,4854 3017,4854 3017,7224 3783,7224 3783,7318 2923,7318"/>
+		</g>
+		<g id="dividers-proposed" class="wall" data-type="wall" data-role="divider" data-thickness-mm="89">
+			<polygon id="wall-seg-04" class="wall-seg" data-height-mm="2020" data-acoustic="none" points="0,2145 2923,2145 2923,2234 0,2234"/>
+			<polygon id="wall-seg-05" class="wall-seg" data-height-mm="2020" data-acoustic="none" points="5146,2145 8288,2145 8288,2234 5146,2234"/>
+			<polygon id="wall-seg-06" class="wall-seg" data-height-mm="2020" data-acoustic="none" points="5146,6961 8238,6961 8238,7050 5146,7050"/>
+		</g>
+	</g>
+	<!-- portas/janelas/aberturas -->
+	<g id="layer-openings">
+		<rect id="opening-escada" class="opening door" data-type="door" data-wall="perimeter" x="7573" y="8721" width="715" height="94"/>
+		<rect id="opening-interno" class="opening door" data-type="door" data-wall="inner-chambers" x="3671" y="2145" width="628" height="94"/>
+		<rect id="opening-estoque" class="opening door" data-type="door" data-wall="inner-chambers" x="3783" y="7224" width="630" height="94"/>
+		<rect id="opening-lavanderia" class="opening door" data-type="door" data-wall="perimeter" x="2447" y="8721" width="781" height="94"/>
+		<rect id="opening-rielle" class="opening window" data-type="window" data-wall="perimeter" x="-94" y="5812" width="94" height="912"/>
+		<rect id="opening-bannantyne1" class="opening window" data-type="window" data-wall="perimeter" x="1166" y="-94" width="912" height="94"/>
+		<rect id="opening-bannantyne2" class="opening window" data-type="window" data-wall="perimeter" x="6476" y="-94" width="912" height="94"/>
+		<rect id="radiator-recess-bannantyne" class="opening radiator recess" data-type="radiator-recess" data-wall="perimeter" x="3495" y="-94" width="1420" height="94"/>
+		<rect id="radiator-recess-rielle" class="opening radiator recess" data-type="radiator-recess" data-wall="perimeter" x="-94" y="6933" width="94" height="1420"/>
+		<rect id="radiator-recess-stairs" class="opening radiator recess" data-type="radiator-recess" data-wall="perimeter" x="8288" y="6843" width="94" height="1420"/>
+		<rect id="closet-recess" class="opening closet recess" data-type="closet-recess" data-wall="inner-chambers" x="2923" y="2395" width="580" height="2192"/>
+		<rect id="opening-cinema" class="opening door" data-type="door" data-wall="dividers-proposed" data-width-mm="800" data-height-mm="2032" x="7338" y="2145" width="800" height="89"/>
+		<rect id="opening-bedroom" class="opening door" data-type="door" data-wall="dividers-proposed" data-width-mm="800" data-height-mm="2032" x="7288" y="6961" width="800" height="89"/>
+	</g>
+	<!-- cotas -->
+	<g id="layer-dimensions">
+		<g id="dim-01" class="dim" data-target="opening-interno" data-value-mm="628" data-kind="opening">
+			<line class="dim-ext" x1="3671" y1="2065" x2="3671" y2="2135"/>
+			<line class="dim-ext" x1="4299" y1="2065" x2="4299" y2="2135"/>
+			<line class="dim-line" x1="3671" y1="2100" x2="4299" y2="2100" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+			<text class="dim-text" x="3985" y="2100">628 mm</text>
+		</g>
+	</g>
+	<!-- textos livres/notas -->
+	<g id="layer-annotations">
+		<text id="scale-label" class="scale" x="20" y="50">Scale 1:50 (units=mm)</text>
+	</g>
+</svg>
