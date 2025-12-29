@@ -17,3 +17,19 @@ mas à **salvação**, mesmo quando isso implica renúncia, deserto e dor.
 Este GitBook não registra experiências pessoais,
 mas consolida **princípios, critérios e estruturas**
 que orientam decisões ao longo do tempo.
+
+## Cena fundadora
+
+O Eixo 9 não nasce de uma abstração teórica,
+mas de um episódio concreto da minha vida,
+formalizado na cena:
+
+- [**A cafeteria da UFMG**](cenas/cafeteria-ufmg.md)
+
+Essa cena marca o deslocamento definitivo
+do critério da vida:
+da busca por felicidade neste mundo
+para a compreensão da salvação como fim último.
+
+Ela funciona como ponto de ancoragem conceitual
+de todo o eixo.
