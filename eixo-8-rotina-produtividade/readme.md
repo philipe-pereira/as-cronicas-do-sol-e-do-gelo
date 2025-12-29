@@ -1,4 +1,4 @@
-# Eixo 8 — Rotina e Produtividade
+# Eixo 8 - Rotina e Produtividade
 
 Este eixo é o **container operacional** do PROJETO_ASCENSAO: é aqui que vivem os ciclos, missões de médio prazo, rotinas mínimas e os mecanismos de acompanhamento.
 
