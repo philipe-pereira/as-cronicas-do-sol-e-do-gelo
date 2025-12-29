@@ -1,4 +1,4 @@
-## Cena — Fabiano / MVNDO
+## Cena - Fabiano e o MVNDO
 
 **Data:** 8 de dezembro de 2025
 **Local:** Carolina do Norte (viagem de trabalho com colega da OPAL-RT Technologies)  

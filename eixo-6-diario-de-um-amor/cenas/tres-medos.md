@@ -38,7 +38,7 @@ Esta cena protege o PROJETO_ASCENSAO de um erro fatal: **fundá-lo na permanênc
 
 No curso dessas reflexões, alguns fatos objetivos surgiram e merecem ser registrados, não como garantias, mas como dados reais que impedem leituras distorcidas.
 
-No dia **11 de dezembro de 2025**, durante a Operação Beleza Brasileira, Alexandre afirmou explicitamente que idade é apenas um número. O comentário foi posteriormente corroborado de forma simbólica: na retrospectiva do Spotify, a “idade musical” de ambos apareceu como a mesma — 56 anos. O dado não tem valor científico, mas registra uma percepção compartilhada de sintonia geracional.
+No dia **11 de dezembro de 2025**, durante a [Operação Beleza Brasileira](../parte-1/apendice-obb/readme.md), Alexandre afirmou explicitamente que idade é apenas um número. O comentário foi posteriormente corroborado de forma simbólica: na retrospectiva do Spotify, a “idade musical” de ambos apareceu como a mesma — 56 anos. O dado não tem valor científico, mas registra uma percepção compartilhada de sintonia geracional.
 
 No dia **24 de dezembro de 2025**, dia de Natal, Alexandre enviou uma mensagem desejando feliz Natal não apenas ao autor, mas também à sua família. O gesto indica aceitação integral da realidade do autor, incluindo sua condição de pai e sua história familiar. Não há tentativa de exclusividade que apague vínculos anteriores.
 

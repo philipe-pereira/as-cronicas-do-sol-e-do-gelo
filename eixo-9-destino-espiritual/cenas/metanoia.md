@@ -1,4 +1,4 @@
-## Cena — Metanoia
+## Cena - Metanoia
 
 **Data:** dezembro de 2025  
 **Local:** Montréal (reflexão escrita; diálogo prolongado)  
