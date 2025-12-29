@@ -35,7 +35,7 @@ Na semana que antecedeu a partida, a operação entrou em sua fase mais sensíve
 
 Busquei uma **consultoria de visagismo**, com instruções precisas redigidas em francês. O objetivo não era sedução, mas alinhamento. Em seguida, fui à barbearia **CRISP**, em Pointe-Saint-Charles. O corte e a barba foram executados de forma clássica e funcional, reduzindo ruídos visuais e encerrando simbolicamente um período de dispersão.
 
-Na mesma semana ocorreu o **baile de gala de final de ano da empresa**. Compareci com minha esposa. O evento teve um peso simbólico importante: enquanto externamente tudo seguia conforme o esperado, internamente o contraste era evidente. Eu desejava estar ali com Alexandre. Essa tensão antecedeu diretamente a viagem e ajudou a clarificar por que ela era necessária.
+Na mesma semana ocorreu o [baile de gala de final de ano da empresa](../../../eixo-7-estabilidade-emocional/cenas/baile-de-gala.md). Compareci com minha esposa. O evento teve um peso simbólico importante: enquanto externamente tudo seguia conforme o esperado, internamente o contraste era evidente. Eu desejava estar ali com Alexandre. Essa tensão antecedeu diretamente a viagem e ajudou a clarificar por que ela era necessária.
 
 Preparei também os **presentes** que levaria ao Brasil. Entre eles, uma garrafa de cidra e uma garrafa de xarope de bordo — objetos simples, mas carregados de significado, escolhidos para representar cuidado e origem.
 
@@ -45,7 +45,7 @@ A mala foi organizada com atenção especial para uma **roupa destinada ao encon
 
 ## 3. Partida de Montréal
 
-No dia da partida, assisti à missa — presencialmente ou por transmissão, conforme as circunstâncias familiares. Passei a manhã com os filhos.
+No dia da partida, passei a manhã com os filhos e assisti à missa por transmissão; decidi não ir pessoalmente com as crianças para não expô-las ao frio intenso que fazia em Montréal.
 
 O deslocamento até o aeroporto foi feito de ônibus, linha **747**, a partir da estação Lionel-Groulx. Próximo ao aeroporto, o trânsito parou completamente. Ao perceber que perderia o despacho de bagagem, tomei a decisão de descer do ônibus e correr cerca de um quilômetro no frio intenso, em torno de **-10 °C**.
 
