@@ -2,7 +2,7 @@
 
 ```
 [LEITURA_DO_CORPUS]
-escopo: "global|eixo|subeixo"
+escopo: "global|eixo|multieixo|subeixo"
 alvo: "<caminho_logico>"
 [/LEITURA_DO_CORPUS]
 ```
@@ -16,9 +16,13 @@ alvo = global
 
 ```
 escopo = eixo
-alvo = "eixo 1" | "eixo 3" | "eixo 1 e 3"
+alvo = "eixo 1" | "eixo 3"
 ```
 
+```
+escopo = multieixo
+alvo = "eixo 1|eixo 3"
+```
 
 ```
 escopo = subeixo
