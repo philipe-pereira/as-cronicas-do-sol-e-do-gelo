@@ -1,18 +1,24 @@
 # Ecce Ego
 
+O **Ecce Ego** é uma **produtora de conteúdo audiovisual** voltada à evangelização cristã, com foco principal na criação de **vídeos hagiográficos** — narrativas audiovisuais sobre a vida dos santos da Igreja. Um projeto de evangelização por meio da narrativa. Seu objetivo é comunicar, por meio da imagem, do som e da narrativa visual, testemunhos de fé que atravessem o tempo e alcancem pessoas que dificilmente seriam tocadas por meios catequéticos tradicionais.
+
+Para se chegar a esse objetivo, serão utilizados tecnologias contemporâneas, em especial **inteligência artificial**, para viabilizar escala, consistência e continuidade.
+
+---
+
+## Motivação e contexto
+
+A motivação central não é técnica, nem artística, nem mesmo institucional. É espiritual e existencial: **tornar novamente imaginável a santidade** em um mundo que perdeu o hábito de concebê-la como possibilidade real.
+
+### Nome
+
 O projeto **Ecce Ego** faz referência ao livro do profeta Isaías, capítulo 6, versículo 8, no qual, diante do chamado divino, Isaías responde:
 
 > “Eis-me aqui, envia-me a mim.”
 
 Este nome não é metafórico nem ornamental. Ele expressa a disposição fundamental do projeto: **assumir conscientemente uma missão**, sem garantias de êxito, sem validação prévia e sem a expectativa de retorno proporcional ao esforço despendido.
 
-O **Ecce Ego** nasce como um projeto de evangelização por meio da narrativa, com foco na produção de **vídeos hagiográficos** — histórias da vida dos santos da Igreja — utilizando tecnologias contemporâneas, em especial **inteligência artificial**, para viabilizar escala, consistência e continuidade.
-
-A motivação central não é técnica, nem artística, nem mesmo institucional. É espiritual e existencial: **tornar novamente imaginável a santidade** em um mundo que perdeu o hábito de concebê-la como possibilidade real.
-
----
-
-## Motivação e contexto
+### Contexto
 
 Vivendo no Québec, é impossível não perceber o contraste entre:
 - igrejas de arquitetura monumental,
@@ -106,6 +112,19 @@ O Ecce Ego propõe desenvolver, de forma progressiva, uma **infraestrutura tecno
 
 A tecnologia não é o centro do projeto.  
 Ela é **instrumento de fidelidade à missão**, permitindo que o esforço humano seja direcionado ao essencial: verdade, beleza e sentido.
+
+---
+
+## Limites e fidelidade
+
+O Ecce Ego se impõe limites claros:
+
+- não instrumentalizar a fé para fins estéticos;
+- não substituir o discernimento humano por automação;
+- não confundir escala com verdade;
+- não transformar tecnologia em ídolo.
+
+O projeto existe para servir, não para se afirmar.
 
 ---
 
