@@ -1,10 +1,10 @@
-## Cena - O baile de gala (quando tudo deu “certo demais”)
+# Cena - O baile de gala (quando tudo deu “certo demais”)
 
 **Data:** 5 de dezembro de 2025  
 **Local:** baile de final de ano da empresa  
 **Contexto:** evento social; presença da esposa; reconhecimento profissional; suspensão momentânea do conflito
 
-### Registros literais
+## Registros literais
 
 > “Incrivelmente, o fato de eu ter tido uma noite agradável com minha esposa, onde não sofri, não chorei, não tive dor no peito, foi a maior ameaça ao PROJETO_ASCENSAO que vi até agora.”
 
@@ -14,7 +14,7 @@
 
 > “Somente o pensamento em Alexandre me relembrava que eu tinha um novo propósito e que eu deveria lutar para corrigir os erros que cometi.”
 
-### Leitura estrutural integrada — Cena “O baile de gala”
+## Leitura estrutural integrada — Cena “O baile de gala”
 
 Esta cena é crucial porque revela que o maior risco do projeto **não é o sofrimento**, mas o conforto funcional. Nada deu errado naquela noite: houve prazer, reconhecimento, normalidade social e ausência de dor física ou emocional imediata. Justamente por isso, a cena se torna perigosa.
 

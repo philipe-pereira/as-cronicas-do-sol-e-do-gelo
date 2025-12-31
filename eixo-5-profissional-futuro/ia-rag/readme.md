@@ -14,32 +14,26 @@ potencial real de retorno financeiro.
 ## Natureza da frente
 
 - **cognitiva**  
-  Trabalho intelectual estruturado, baseado em documentação,
-  arquitetura de informação e raciocínio técnico.
+  Trabalho intelectual estruturado, baseado em documentação, arquitetura de informação e raciocínio técnico.
 
 - **escalável**  
-  Diferente de frentes puramente manuais, permite ampliação de impacto
-  sem crescimento linear de esforço.
+  Diferente de frentes puramente manuais, permite ampliação de impacto sem crescimento linear de esforço.
 
 - **orientada a produtividade e valor econômico**  
-  O foco está na redução de atrito cognitivo, ganho de eficiência
-  e monetização indireta ou direta.
+  O foco está na redução de atrito cognitivo, ganho de eficiência e monetização indireta ou direta.
 
 ---
 
 ## Funções principais no Eixo 5
 
 - **geração de renda futura**  
-  Exploração de produtos e serviços baseados em IA aplicada,
-  especialmente em contextos técnicos e industriais.
+  Exploração de produtos e serviços baseados em IA aplicada, especialmente em contextos técnicos e industriais.
 
 - **posicionamento técnico**  
-  Consolidação de uma identidade profissional ligada à arquitetura
-  de sistemas de conhecimento e uso responsável de LLMs.
+  Consolidação de uma identidade profissional ligada à arquitetura de sistemas de conhecimento e uso responsável de LLMs.
 
 - **ampliação de rede profissional**  
-  Aproximação de engenheiros, equipes técnicas e parceiros
-  interessados em produtividade, documentação viva e automação cognitiva.
+  Aproximação de engenheiros, equipes técnicas e parceiros interessados em produtividade, documentação viva e automação cognitiva.
 
 ---
 

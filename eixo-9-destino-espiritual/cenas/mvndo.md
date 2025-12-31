@@ -2,7 +2,7 @@
 
 **Data:** 8 de dezembro de 2025
 **Local:** Carolina do Norte (viagem de trabalho com colega da OPAL-RT Technologies)  
-**Contexto:** conversa informal entre homens; julgamentos implícitos; confronto com o “falatório humano”; três dias após o baile de gala da OPAL-RT Technologies
+**Contexto:** conversa informal entre homens; julgamentos implícitos; confronto com o “falatório humano”; três dias após o [baile de gala](../../eixo-7-estabilidade-emocional/cenas/baile-de-gala.md) da OPAL-RT Technologies
 
 ## Registros literais
 
