@@ -1,13 +1,8 @@
 # IA aplicada / RAG
 
-Esta frente explora o uso **prático e economicamente orientado**
-da inteligência artificial, com foco em **RAG (Retrieval-Augmented Generation)**
-e em sistemas baseados em **conhecimento documentado, versionável e auditável**.
+Esta frente explora o uso **prático e economicamente orientado** da inteligência artificial, com foco em **RAG (Retrieval-Augmented Generation)** e em sistemas baseados em **conhecimento documentado, versionável e auditável**.
 
-Ela não trata IA como curiosidade técnica nem como exercício acadêmico,
-mas como **instrumento profissional**, comparável — em função — às frentes
-de marcenaria ou energia: um campo de competência a ser desenvolvido com
-potencial real de retorno financeiro.
+Ela não trata IA como curiosidade técnica nem como exercício acadêmico, mas como **instrumento profissional**, comparável — em função — às frentes de marcenaria ou energia: um campo de competência a ser desenvolvido com potencial real de retorno financeiro.
 
 ---
 

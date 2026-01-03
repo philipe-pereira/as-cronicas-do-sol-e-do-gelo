@@ -3,6 +3,7 @@
 ## O que é esta frente
 
 A **marcenaria** é integrada ao **Eixo 5 — profissional do futuro** como um **ofício manual estruturante**.
+
 Ela **não é hobby**, **não é fuga** e **não é romantização do trabalho manual**. É uma frente deliberada, com função psicológica, existencial e econômica.
 
 Esta frente nasce com três compromissos explícitos:
@@ -52,12 +53,9 @@ A marcenaria serve como contrapeso às atividades predominantemente intelectuais
 
 ## Relação com a restauração de casas
 
-A marcenaria encontra na restauração de casas
-seu **campo de aplicação mais exigente e completo**.
+A marcenaria encontra na restauração de casas seu **campo de aplicação mais exigente e completo**.
 
-Portas, estruturas, armários, divisórias, pisos e reparos
-deixam de ser exercícios isolados
-e passam a responder a um contexto real de uso, desgaste e habitação.
+Portas, estruturas, armários, divisórias, pisos e reparos deixam de ser exercícios isolados e passam a responder a um contexto real de uso, desgaste e habitação.
 
 A restauração funciona como:
 - laboratório avançado da marcenaria;

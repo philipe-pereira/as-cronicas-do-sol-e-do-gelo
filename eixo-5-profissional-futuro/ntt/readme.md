@@ -1,5 +1,7 @@
 # NTT - Nunes Teixeira Tecnologia
 
+[Google Drive](https://drive.google.com/drive/folders/1At02AViSNSJBu2Ga0ArYqZfACNXOhEXa?usp=sharing)
+
 ## Contexto
 
 Este documento inaugura o subeixo **NTT** dentro do **Eixo 5 — Profissional do Futuro** do PROJETO_ASCENSAO. Ele registra o momento fundador de uma aliança profissional entre **Philipe Pereira** e **Rafael Klanfer Nunes**, estabelecida em um período de transição profunda da vida pessoal e profissional de Philipe.
