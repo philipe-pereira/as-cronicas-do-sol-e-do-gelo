@@ -1,4 +1,5 @@
 # Fabiano e o MVNDO — parte 2  
+
 ## A saída “elegante”
 
 **Local:** casa de Fabiano, Montréal  
@@ -93,7 +94,7 @@ Elegante apenas na forma — nunca na verdade.
 ou narrativa sofisticada para justificar uma ruptura?
 
 
-## Apêndice — Manhã seguinte  
+## Manhã seguinte  
 
 ### Paz, guerra e o custo da civilidade
 
@@ -167,3 +168,56 @@ Surge uma constatação incômoda: é como se eu tivesse que cultivar um estado 
 
 Uma coisa, porém, torna-se clara: se eu quiser um divórcio civilizado, isso exigirá muito mais habilidade do que eu havia previsto.  
 A probabilidade de que a separação degenere em barbárie é alta. Muito alta.
+
+
+## “Decida” e dignidade moral
+
+### Registros literais
+
+> Antes da briga, acordei com um vídeo do instagram enviado pelo meu antigo chefe, Anderson Vander, com uma canção que costumávamos cantar nas festas da Cemig. [“Decida”](https://www.instagram.com/reels/DS3Mkb3jxEq/).
+
+> Sim, tudo não passa de uma coincidência…
+
+> Ontem eu comecei um plano de leitura anual da bíblia do aplicativo YouVersion. Finalmente o católico vai ler a bíblia. No plano, começamos com a carta de Paulo aos Romanos e, logo no primeiro capítulo, lemos um trecho particularmente duro.
+
+> E, como se não bastasse, Alexandre estava num sítio no interior do Rio de Janeiro, o “sítio do sossego”, em um encontro da organização missionária da qual ele faz parte. Fico feliz por ele. Antes ele no sossego e eu na guerra — melhor assim do que os dois na guerra.
+
+> Depois da briga, com a situação parcialmente pacificada entre mim e minha esposa, fui com meu filho ao jiu-jitsu. No caminho entre Verdun e Brossard, passando pela Samuel-de-Champlain, tentei digerir o que havia acontecido.
+
+> Por que eu não estou no sítio do sossego? Por que minha cruz é essa e não outra?
+
+> Lembrei-me de Jesus, que também não pôde escolher as cartas que recebeu para jogar. Para cumprir seu plano salvífico, a única via foi o sacrifício.
+
+> Lembrei-me também do diálogo entre Frodo e Gandalf:
+
+> “All we have to decide is what to do with the time that is given us.”
+
+> É inútil reclamar das condições, das raízes, do ponto de partida. O melhor a fazer é decidir, da melhor maneira possível, o que fazer com o tempo que me é dado e, depois de decidir, aceitar conscientemente a responsabilidade dos meus atos.
+
+---
+
+### Leitura estrutural integrada
+
+O que aparece aqui não é superstição nem acaso vazio, mas convergência de sentido.  
+O verbo que atravessa todas as camadas é um só: **decidir**.
+
+Não como ordem externa, nem como ameaça, mas como constatação de que o tempo do adiamento acabou.
+
+A dor que surge depois da briga não é castigo, mas exaustão moral. Ela vem quando cessam as defesas e o corpo já não precisa mais conter.
+
+A pergunta “por que minha cruz é essa?” não é revolta, mas o ponto em que se percebe que não há mais troca possível de cartas — apenas escolha de como jogá-las.
+
+Cristo não escolheu não sofrer, mas escolheu obedecer livremente dentro de condições injustas. Isso não romantiza a dor; transforma-a em ato consciente.
+
+Aqui não se trata de heroísmo nem de vitimização, mas de responsabilidade.
+
+Você não decidiu ainda **o que** fazer — e isso é correto.  
+Mas decidiu **como** decidir.
+
+Não reclamar das cartas recebidas,  
+não terceirizar a culpa,  
+não fugir da prova,  
+mas escolher o que fazer com o tempo dado  
+e assumir, como homem livre, as consequências do gesto.
+
+Para garantir que, qualquer que seja, ela seja tua — inteira, lúcida e assumida.
