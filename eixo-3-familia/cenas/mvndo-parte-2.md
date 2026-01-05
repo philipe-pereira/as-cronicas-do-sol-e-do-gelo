@@ -15,7 +15,7 @@ Não por conflito, não por escândalo — simplesmente porque aquela cena press
 
 O clima era leve. Conversas fluidas. Risos. Boa comida. Bebida moderada. Fabiane estava bonita. Não havia atritos. Não havia mentira explícita. Apenas uma convivência pacífica entre papéis bem desempenhados.
 
-Era o mesmo estado que eu havia sentido no baile da OPAL-RT: **uma vida que funciona**.
+Era o mesmo estado que eu havia sentido no [baile da OPAL-RT](baile-de-gala.md): **uma vida que funciona**.
 
 Mas, diferente do baile, ali não havia anonimato social. Havia intimidade. História compartilhada. Comparação inevitável.
 
@@ -77,8 +77,6 @@ Elegante apenas na forma — nunca na verdade.
 – “Aqui a gente já não pode mais inventar muito.”  
 – “O Brasil é sempre arriscado demais.”  
 – “Tem que pensar no longo prazo, principalmente por causa das crianças.”  
-
-(Registros aproximados, preservando o sentido, não a literalidade exata das falas.)
 
 ---
 
