@@ -1,6 +1,10 @@
-# Gestão de Leituras
+# Leituras
 
-## Backlog (quero ler)
+## Backlog
+
+### Eixo 4
+
+- [ ] Éric Bédard - L'Histoire du Québec pour les Nuls
 
 ### Eixo 9
 
