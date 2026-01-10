@@ -21,7 +21,12 @@
 
 ---
 
-### Pilar 2 — Encerramento real
+### Pilar 2 — Continuação
+**Meta:** continuar o que estava sendo feito no [ciclo anterior](../ciclo1/missao-04-carreira-paralela-legacy.md).
+
+---
+
+### Pilar 3 — Encerramento real
 **Meta:** código organizado, documentado e finalizado.
 
 ---

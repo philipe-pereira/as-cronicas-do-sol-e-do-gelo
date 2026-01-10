@@ -1,4 +1,4 @@
-# 🧭 Ciclo octahebdomal 2
+# Ciclo octahebdomal 02
 
 ## Datas e tema
 
