@@ -1,7 +1,6 @@
-# Opções de migração de aplicações Java e caminhos futuros (referência final)
+# Opções de migração de aplicações Java
 
-Este documento consolida (em **um único lugar**) as opções consideradas para substituir o modelo **JNLP/Java Web Start**, e registra os caminhos técnicos escolhidos para evolução futura.  
-Objetivo: **encerrar o tema** e manter apenas como referência.
+Este documento consolida as opções consideradas para substituir o modelo **JNLP/Java Web Start**, e registra os caminhos técnicos escolhidos para evolução futura.  
 
 ## 1) As 5 opções reais que existiam
 

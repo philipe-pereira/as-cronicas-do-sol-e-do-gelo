@@ -1,4 +1,4 @@
-# TypeScript do zero até Canvas vazio (guia único)
+# TypeScript do zero até Canvas vazio
 
 Este documento descreve como criar, do zero absoluto, um projeto web simples para aplicações técnicas (engenharia, física, diagramas), usando **TypeScript + Canvas 2D**, sem frameworks.
 
