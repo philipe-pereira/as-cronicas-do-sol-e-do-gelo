@@ -1,35 +1,46 @@
 # Eixo 9 - Destino final / ascenção espiritual
 
-Este eixo define o **critério último** do PROJETO_ASCENSAO.
+> “Meu objetivo de vida é ser salvo,  
+> alcançar a Vida Eterna junto de meu Criador.”
 
-> Meu objetivo de vida é ser salvo,  
-> alcançar a Vida Eterna junto de meu Criador.
+Este eixo governa, julga e ordena todos os demais.  
+Ele não é devocional, ornamental ou motivacional.  
+É **arquitetural**.
 
-Tudo o que compõe minha existência — corpo, trabalho, afetos, liberdade,
-projetos e sofrimento — é meio, não fim.
+Nada neste projeto tem sentido fora deste critério último.
 
-Este eixo não é devocional nem ornamental.
-Ele é **arquitetural**: governa, julga e ordena todos os demais eixos.
+---
 
-A vida neste mundo não é orientada à felicidade permanente,
-mas à **salvação**, mesmo quando isso implica renúncia, deserto e dor.
+## Princípio último
 
-Este GitBook não registra experiências pessoais,
-mas consolida **princípios, critérios e estruturas**
-que orientam decisões ao longo do tempo.
+O mundo não é o destino final do homem.  
+Projetos, afetos, carreiras, corpo e identidade são meios, não fins.
+
+Deus não promete felicidade constante neste mundo. 
+Deus chama à salvação.
+
+Este eixo existe para impedir que qualquer outro eixo se torne absoluto.
+
+---
+
+## Subordinação dos demais eixos
+
+Todos os eixos — sem exceção — devem ser governados por este.
+
+A pergunta última que julga qualquer decisão relevante é sempre a mesma:
+
+> “Isso contribui para a salvação da minha alma,  
+> para minha retidão interior  
+> e para minha fidelidade à verdade?”
+
+Nenhum eixo possui soberania própria. Nem mesmo os afetivos.
 
 ## Cena fundadora
 
-O Eixo 9 não nasce de uma abstração teórica,
-mas de um episódio concreto da minha vida,
-formalizado na cena:
+O Eixo 9 não nasce de uma abstração teórica, mas de um episódio concreto da minha vida, formalizado na cena:
 
 - [**A cafeteria da UFMG**](cenas/cafeteria-ufmg.md)
 
-Essa cena marca o deslocamento definitivo
-do critério da vida:
-da busca por felicidade neste mundo
-para a compreensão da salvação como fim último.
+Essa cena marca o deslocamento definitivo do critério da vida: da busca por felicidade neste mundo para a compreensão da salvação como fim último.
 
-Ela funciona como ponto de ancoragem conceitual
-de todo o eixo.
+Ela funciona como ponto de ancoragem conceitual de todo o eixo.
